@@ -1,5 +1,5 @@
 # Aaditya-Ansh
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.behance.net%2Fgallery%2F68097599%2FBanner-Images-for-Coding-Challenges&psig=AOvVaw0Y6M8FqWQYqjJLRAFb5v5U&ust=1682148912606000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCIiPq5G7uv4CFQAAAAAdAAAAABAE
+[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.123rf.com%2Fphoto_95150923_banner-programming-and-coding-background-vector-illustration-with-icons-and-keywords.html&psig=AOvVaw0Y6M8FqWQYqjJLRAFb5v5U&ust=1682148912606000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCIiPq5G7uv4CFQAAAAAdAAAAABAg
 )]
 <h1 align="center">Hi 👋, I'm Aaditya Ansh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
